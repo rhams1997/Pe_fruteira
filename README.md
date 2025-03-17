@@ -28,6 +28,5 @@ Este projeto consiste em um modelo 3D de um pé para fruteira desenvolvido utili
 ## Licença
 Este projeto está licenciado sob a **Creative Commons - Atribuição (CC BY 4.0)**. Você pode usá-lo e modificá-lo livremente, desde que credite o autor original.
 
----
-Criado por [Seu Nome]
+
 
