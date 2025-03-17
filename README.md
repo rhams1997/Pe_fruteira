@@ -1,4 +1,4 @@
-# README - Modelo 3D de Pé para Fruteira
+# Modelo 3D de Pé para Fruteira
 
 ## Descrição
 Este projeto consiste em um modelo 3D de um pé para fruteira desenvolvido utilizando **OpenSCAD**. O objetivo é substituir os pés originais com defeito e evitar problemas de ferrugem, garantindo maior durabilidade e estabilidade para a fruteira.
